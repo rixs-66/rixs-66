@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Asiscom S.A de C.V**
 
-- 🌱 Actualmente estoy aprendiendo **React, Android studio,**
+- 🌱 Actualmente estoy aprendiendo **React, Android studio, React.JS**
 
 - 🤝 Estoy buscando ayuda con **aplicaciones móviles**
 
