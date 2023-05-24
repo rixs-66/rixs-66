@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 , soy Ricardo Pineda</h1>
-<h3 align="center">Un apasionado desarrollador frontend de México</h3>
+<h3 align="center">Un apasionado desarrollador Web de México</h3>
 
 <p align = "center"><img src ="https://i.postimg.cc/13Gjyhy3/Bienvenido.png"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricalv6&label=Profile%20views&color=0e75b6&style=flat" alt="ricalv6" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **Asiscom S.A de C.V**
+- 🔭 Actualmente estoy trabajando en **Paradox-et sa de cv**
 
-- 🌱 Actualmente estoy aprendiendo **React, Android studio, React.JS**
+- 🌱 Actualmente estoy aprendiendo **Angular, Ionic, Typescript**
 
 - 🤝 Estoy buscando ayuda con **aplicaciones móviles**
 
