@@ -4,9 +4,9 @@
 <p align = "center"><img src ="https://i.postimg.cc/13Gjyhy3/Bienvenido.png"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricalv6&label=Profile%20views&color=0e75b6&style=flat" alt="ricalv6" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **Paradox-et sa de cv**
+- 🔭 Actualmente estoy trabajando en **Paradox-et SRL de CV**
 
-- 🌱 Actualmente estoy aprendiendo **Angular, Ionic, Typescript**
+- 🌱 Actualmente estoy aprendiendo **Angular, Ionic, React-Native Typescript**
 
 - 🤝 Estoy buscando ayuda con **aplicaciones móviles**
 
