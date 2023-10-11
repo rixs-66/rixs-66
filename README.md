@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricalv6&label=Profile%20views&color=0e75b6&style=flat" alt="ricalv6" /> </p>
 
 
-- 🔭 Actualmente estoy trabajando en **Paradox-et SRL de CV**
+- 🔭 Actualmente estoy trabajando en **EDSA S.A de C.V**
 
 - 🌱 Actualmente estoy aprendiendo **Angular, Ionic, React-Native, Typescript**
 
-- 🤝 Estoy buscando ayuda con **aplicaciones móviles**
+- 🤝 Estoy buscando ayuda con **React-native**
 
 - 📫 Cómo contactarme **rica_66@hotmail.es**
 
